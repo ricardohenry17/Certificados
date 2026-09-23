@@ -6,10 +6,10 @@ Bem-vindo(a) ao meu repositório de certificações! Aqui listo os cursos profis
 
 ### 🛡️ Cisco Networking Academy & SENAC-PE
 
-* **Sensibilização para a Segurança Digital** (Conclusão: Setembro de 2026)[cite: 8]
+* **Sensibilização para a Segurança Digital** (Conclusão: Setembro de 2026)
   * Capacitação focada em boas práticas de cibersegurança, proteção de dados e conscientização sobre ameaças no ambiente digital.
 
-* **Defesa de Rede** (Conclusão: 31 de Março de 2025)[cite: 9]
+* **Defesa de Rede** (Conclusão: 31 de Março de 2025)
   * Aprofundamento em análise de tráfego, identificação de vulnerabilidades, implementação de controles de segurança e fundamentos de firewall.
 
 * **Gerenciamento de Ameaças Cibernéticas** (Conclusão: 16 de Setembro de 2025)
